@@ -1,0 +1,107 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentService", "PaymentService\PaymentService.csproj", "{8F975C5F-2DF8-4B57-8678-938F70216299}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{E4F8905F-F267-4599-AA34-F80E408AD591}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SharedKernel", "SharedKernel", "{224CCADF-DAE3-45E7-9873-D57885B0A56D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{CE08AEE7-98BB-4435-A82D-8C8B14380247}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PaymentServiceApi", "PaymentServiceApi", "{4A49EF33-1126-46CA-9D94-DB6D4BF3CC00}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\PaymentServiceApi\package-lock.json = ..\..\PaymentServiceApi\package-lock.json
+		..\..\PaymentServiceApi\package.json = ..\..\PaymentServiceApi\package.json
+		..\..\PaymentServiceApi\Startup.js = ..\..\PaymentServiceApi\Startup.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3D1026C0-0F14-43A0-82CB-D5A9761FB01B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{9033ED80-A862-419E-8A3D-7C91C2F5F21C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{E486DA41-3756-4880-A47F-AA4235AC37A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentService.Application", "PaymentService.Application\PaymentService.Application.csproj", "{EB49BFDE-F4DA-4562-9903-4898A29181DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentService.Domain", "PaymentService.Domain\PaymentService.Domain.csproj", "{A3FFC920-A07F-4F9C-82D8-2FB56406A29E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentService.Data", "PaymentService.Data\PaymentService.Data.csproj", "{8BC1BEF0-CD62-447F-AD32-7A15D05EC4DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentService.Util", "PaymentService.Util\PaymentService.Util.csproj", "{36146CDC-36A4-41B2-859B-331548A15993}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F975C5F-2DF8-4B57-8678-938F70216299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F975C5F-2DF8-4B57-8678-938F70216299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F975C5F-2DF8-4B57-8678-938F70216299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F975C5F-2DF8-4B57-8678-938F70216299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB49BFDE-F4DA-4562-9903-4898A29181DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB49BFDE-F4DA-4562-9903-4898A29181DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB49BFDE-F4DA-4562-9903-4898A29181DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB49BFDE-F4DA-4562-9903-4898A29181DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3FFC920-A07F-4F9C-82D8-2FB56406A29E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3FFC920-A07F-4F9C-82D8-2FB56406A29E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3FFC920-A07F-4F9C-82D8-2FB56406A29E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3FFC920-A07F-4F9C-82D8-2FB56406A29E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BC1BEF0-CD62-447F-AD32-7A15D05EC4DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BC1BEF0-CD62-447F-AD32-7A15D05EC4DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BC1BEF0-CD62-447F-AD32-7A15D05EC4DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BC1BEF0-CD62-447F-AD32-7A15D05EC4DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36146CDC-36A4-41B2-859B-331548A15993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36146CDC-36A4-41B2-859B-331548A15993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36146CDC-36A4-41B2-859B-331548A15993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36146CDC-36A4-41B2-859B-331548A15993}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8F975C5F-2DF8-4B57-8678-938F70216299} = {E4F8905F-F267-4599-AA34-F80E408AD591}
+		{E4F8905F-F267-4599-AA34-F80E408AD591} = {3D1026C0-0F14-43A0-82CB-D5A9761FB01B}
+		{224CCADF-DAE3-45E7-9873-D57885B0A56D} = {3D1026C0-0F14-43A0-82CB-D5A9761FB01B}
+		{CE08AEE7-98BB-4435-A82D-8C8B14380247} = {3D1026C0-0F14-43A0-82CB-D5A9761FB01B}
+		{4A49EF33-1126-46CA-9D94-DB6D4BF3CC00} = {E4F8905F-F267-4599-AA34-F80E408AD591}
+		{9033ED80-A862-419E-8A3D-7C91C2F5F21C} = {3D1026C0-0F14-43A0-82CB-D5A9761FB01B}
+		{E486DA41-3756-4880-A47F-AA4235AC37A8} = {3D1026C0-0F14-43A0-82CB-D5A9761FB01B}
+		{EB49BFDE-F4DA-4562-9903-4898A29181DE} = {9033ED80-A862-419E-8A3D-7C91C2F5F21C}
+		{A3FFC920-A07F-4F9C-82D8-2FB56406A29E} = {CE08AEE7-98BB-4435-A82D-8C8B14380247}
+		{8BC1BEF0-CD62-447F-AD32-7A15D05EC4DD} = {E486DA41-3756-4880-A47F-AA4235AC37A8}
+		{36146CDC-36A4-41B2-859B-331548A15993} = {224CCADF-DAE3-45E7-9873-D57885B0A56D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA7915D9-3523-474C-B660-890E121837F4}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfselirweb.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = PaymentService\\PaymentService.csproj
+		SccProjectTopLevelParentUniqueName1 = Mvp-SalesEcomerce.sln
+		SccProjectName1 = PaymentService
+		SccLocalPath1 = PaymentService
+		SccProjectUniqueName2 = PaymentService.Application\\PaymentService.Application.csproj
+		SccProjectTopLevelParentUniqueName2 = Mvp-SalesEcomerce.sln
+		SccProjectName2 = PaymentService.Application
+		SccLocalPath2 = PaymentService.Application
+		SccProjectUniqueName3 = PaymentService.Domain\\PaymentService.Domain.csproj
+		SccProjectTopLevelParentUniqueName3 = Mvp-SalesEcomerce.sln
+		SccProjectName3 = PaymentService.Domain
+		SccLocalPath3 = PaymentService.Domain
+		SccProjectUniqueName4 = PaymentService.Data\\PaymentService.Data.csproj
+		SccProjectTopLevelParentUniqueName4 = Mvp-SalesEcomerce.sln
+		SccProjectName4 = PaymentService.Data
+		SccLocalPath4 = PaymentService.Data
+		SccProjectUniqueName5 = PaymentService.Util\\PaymentService.Util.csproj
+		SccProjectTopLevelParentUniqueName5 = Mvp-SalesEcomerce.sln
+		SccProjectName5 = PaymentService.Util
+		SccLocalPath5 = PaymentService.Util
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\projetos\MVP-SalesEcomerce\mvp-salesecomerce\PaymentService.Util\bin\Release\PaymentService.Util.dll
+C:\projetos\MVP-SalesEcomerce\mvp-salesecomerce\PaymentService.Util\bin\Release\PaymentService.Util.pdb
+C:\projetos\MVP-SalesEcomerce\mvp-salesecomerce\PaymentService.Util\obj\Release\PaymentService.Util.csprojAssemblyReference.cache
+C:\projetos\MVP-SalesEcomerce\mvp-salesecomerce\PaymentService.Util\obj\Release\PaymentService.Util.csproj.CoreCompileInputs.cache
+C:\projetos\MVP-SalesEcomerce\mvp-salesecomerce\PaymentService.Util\obj\Release\PaymentService.Util.dll
+C:\projetos\MVP-SalesEcomerce\mvp-salesecomerce\PaymentService.Util\obj\Release\PaymentService.Util.pdb

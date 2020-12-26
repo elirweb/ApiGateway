@@ -1,0 +1,10 @@
+C:\projetostfs\mvp-salesecomerce\PaymentService.Util\bin\Debug\PaymentService.Util.dll
+C:\projetostfs\mvp-salesecomerce\PaymentService.Util\bin\Debug\PaymentService.Util.pdb
+C:\projetostfs\mvp-salesecomerce\PaymentService.Util\obj\Debug\PaymentService.Util.csproj.CoreCompileInputs.cache
+C:\projetostfs\mvp-salesecomerce\PaymentService.Util\obj\Debug\PaymentService.Util.dll
+C:\projetostfs\mvp-salesecomerce\PaymentService.Util\obj\Debug\PaymentService.Util.pdb
+C:\projetos\MVP-SalesEcomerce\mvp-salesecomerce\PaymentService.Util\bin\Debug\PaymentService.Util.dll
+C:\projetos\MVP-SalesEcomerce\mvp-salesecomerce\PaymentService.Util\bin\Debug\PaymentService.Util.pdb
+C:\projetos\MVP-SalesEcomerce\mvp-salesecomerce\PaymentService.Util\obj\Debug\PaymentService.Util.csproj.CoreCompileInputs.cache
+C:\projetos\MVP-SalesEcomerce\mvp-salesecomerce\PaymentService.Util\obj\Debug\PaymentService.Util.dll
+C:\projetos\MVP-SalesEcomerce\mvp-salesecomerce\PaymentService.Util\obj\Debug\PaymentService.Util.pdb
