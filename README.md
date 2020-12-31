@@ -1,3 +1,5 @@
+<img src="https://lh3.googleusercontent.com/ogw/ADGmqu9EYB4aeXqNiLjoekUlqX4OywGWtqzqs-LJqkNODA=s83-c-mo" />
+<br />
 # ApiGateway: Api de Integração de meio de Pagamento
 # O que é:
 ApiGateway é uma projeto que simula em ambiente real um MarketPlace com ApiGateway, como uma forma descomplicada de se comunicar.
