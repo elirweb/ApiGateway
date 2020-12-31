@@ -1,6 +1,5 @@
-<div style="width:268px;height:128px;text-align:center">
   <img src="https://lh3.googleusercontent.com/ogw/ADGmqu9EYB4aeXqNiLjoekUlqX4OywGWtqzqs-LJqkNODA=s83-c-mo" />
- </div>
+ 
 <br />
 # ApiGateway: Api de Integração de meio de Pagamento
 # O que é:
