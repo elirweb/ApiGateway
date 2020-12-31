@@ -10,7 +10,7 @@ Com pouco conhecimento do Git, uso os comandos do Git clone e mergulhe nos codig
 
 # Arquitetura do Projeto
 Falou de um ponto muito importante onde eu gosto muito. 
-Vamos lá: 
+<br />Vamos lá: 
 Camada Domain: Fica todas as minhas Entitys do projeto e ValuesObjects
 Camada Infra / Data: Fica responsável por se comunica com banco de dados, é ela que vai persistir os dados no banco de dados. Temos Repository, configuração de banco de dados.
 Camada Aplication: Responsável por fazer a orquestração, ela se comunica com a infra e domain, tem seus mapper,interfaces,repository e viewmodel,Specification etc. resumindo ela faz acontecer.
