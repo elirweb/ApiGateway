@@ -25,7 +25,7 @@ Falou de um ponto muito importante onde eu gosto muito.
 C#,WCF,Mongo DB (Banco de dados NoSQL)
 
 # Arquitetura utilizadas
-DDD,Design Parthen, Solid, Clean Code.
+DDD,Design Patterns, Solid, Clean Code.
 
 
 
